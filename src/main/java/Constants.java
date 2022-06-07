@@ -12,4 +12,5 @@ public class Constants {
     private Integer averageDistanceToClient = 2;
     private Integer averageCourseLength = 3;
     private Integer workPercentage = 70;
+    private BigDecimal taxFreeIncomeValue = BigDecimal.valueOf(30000);
 }

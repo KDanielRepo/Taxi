@@ -8,5 +8,5 @@ public class Car {
     private BigDecimal cost;
     private String fuelType;
     private BigDecimal fuelCost;
-    private BigDecimal averageFuelConsumption;
+    private Double averageFuelConsumption;
 }
